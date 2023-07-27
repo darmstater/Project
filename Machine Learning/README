@@ -1,3 +1,9 @@
 Pengembangkan model machine learning untuk mengatasi permasalahan spam. 
 Dalam usaha untuk meningkatkan akurasi, saya menggunakan set data email spam dari sumber Kaggle.
-Dengan menambahkan Postagging di setiap kondisi variabel dari penelitian sebelumnya
+Dengan menambahkan Postagging di setiap kondisi variabel dari penelitian sebelumnya.
+===============================================================================================================================================================================
+Previous Journal: N. Kumar, S. Sonowal and Nishant, "Email Spam Detection Using Machine Learning Algorithms," 2020 https://ieeexplore.ieee.org/document/9183098
+Gap: Lexical information has not been explored further for spam email classification.
+===============================================================================================================================================================================
+Run application: Google Colabs
+Language: Python
