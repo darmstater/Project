@@ -1,0 +1,3 @@
+Pengembangkan model machine learning untuk mengatasi permasalahan spam. 
+Dalam usaha untuk meningkatkan akurasi, saya menggunakan set data email spam dari sumber Kaggle.
+Dengan menambahkan Postagging di setiap kondisi variabel dari penelitian sebelumnya
