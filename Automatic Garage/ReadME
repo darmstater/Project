@@ -1,0 +1,6 @@
+//benda 1 as Infra red detektor
+// trigPin2 at pin 4 as Ultrasonic Sensor HC-SR04
+// echoPin2 at pin 5 as Ultrasonic Sensor HC-SR04
+// IR as Infra red detektor
+// led at pin 13 as LED Lamp
+//const value buttonPin at pin 8 as a button
